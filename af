@@ -1,0 +1,59 @@
+[33mcommit 8babde3508373f76478b8110936554debc66607c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Sun Jan 12 14:56:59 2025 +0900
+
+    screen fix
+
+[33mcommit e80e7ca44582fdeaed2319e1638bc67f0e0467e2[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Sun Jan 12 13:30:54 2025 +0900
+
+    fishingbase
+
+[33mcommit 2cd520edb8ec0f56d6001185acecebe1e50fffb5[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Sun Jan 12 00:01:04 2025 +0900
+
+    fishing_guage
+
+[33mcommit f9abb76dd5ba1ef1b651dc63788d4c92b1d25c91[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Tue Jan 7 17:50:48 2025 +0900
+
+    screen fix
+
+[33mcommit b6383f183b8c462c8613934e274e1020763caf5a[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Tue Jan 7 11:14:30 2025 +0900
+
+    fishing bg
+
+[33mcommit 8317a45dad1fa267a3c32fc77d215d6d97d07de6[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Mon Jan 6 16:10:46 2025 +0900
+
+    fishing game start
+
+[33mcommit 9a139f0b98381757c2defbbecce1a617c7098fe7[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Sun Jan 5 17:46:04 2025 +0900
+
+    screen fix
+
+[33mcommit 9ae9f138158ed26bc0eefe185b65ca7fdb065bbd[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Sun Jan 5 17:43:04 2025 +0900
+
+    indexfix
+
+[33mcommit 51da38c5ad347e4b014a39e12f1fbd176998a13c[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Sun Jan 5 16:10:52 2025 +0900
+
+    screen fix
+
+[33mcommit 34c6ce1ded8b32cc43fca6073eddc51d54f3ffa6[m
+Author: willkim <kkhzz100@gmail.com>
+Date:   Sun Jan 5 15:44:38 2025 +0900
+
+    Initial WebGL build
